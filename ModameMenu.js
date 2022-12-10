@@ -1,1 +1,451 @@
-javascript:"use strict";var _templateObject=_taggedTemplateLiteral([""],[""]),_templateObject2=_taggedTemplateLiteral(["var trollstart = function () {alert(\"ERES TONTO\");  document.write(\"ERES TONTO\");  alert(\"cookie hecha llamada \"EL QUE LE ESTO ES TONTO\"\");  location.redirect(\"https://www.youtube.com/watch%3Fv=qUq50VAx6CU\");};;var start4 = function() {var z = prompt(\"[1] Quizlet live\n[2] blooket\n[3] Global\n[4] Exit\");  if (z === \"1\") {  var u = document.createElement('script');  u.type='text/javascript';  document.body.appendChild(u);  u.src='https://raw.githubusercontent.com/glixzzy/quizlet-hack/main/dist/bundle.js';  };  if (z === \"2\") {  var BLOOKETVERSION='2.0';  var tn = document.createElement('script');  tn.type='text/javascript';  document.body.appendChild(tn);  tn.src='https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/spamOpenBoxes.js';  };  if (z === \"3\") {  location.replace(\"https://onlinegdb.com/b1bejQQbmP\");  };  if (z === \"4\") {  start2();  };};;var start3 = function() { var ln = prompt(\"[1] modame game\n[2] ball shooter\n[3] minecraft\n[4] Modame game beta\n[5] Admin abuse\n[6] exit\"); if (ln === \"1\") {  location.replace(\"https://onlinegdb.com/Gt9M_oKsW\");  }; if (ln === \"2\") {  var KICKASSVERSION='2.0';  var s = document.createElement('script');  s.type='text/javascript';  document.body.appendChild(s);  s.src='//hi.kickassapp.com/kickass.js';  void(0); }; if (ln === \"3\") {  location.replace(\"https://trinket.io/embed/python/086de50cfb\"); }; if (ln === \"4\") {  location.replace(\"https://onlinegdb.com/CBTc5TlJJ\"); }; if (ln === \"5\") {  location.replace(\"https://onlinegdb.com/x87l9Xghs\"); }; if (ln === \"6\") {  start2(); };};;var WebChange = function() {var WebChange_menu = prompt(\"[1] create/change cookie\n[2] quizlet hack\n[3] Unblock websites\n[4] mine BTC\n[5] Clear history\n[6] source code\n[7] URI decoder\n[8] exit\");if (y === \"5\") {  location.replace(\"https://docs.google.com/\");  location.replace(\"https://classroom.google.com/u/0/h\");  location.replace(\"https://docs.google.com/\");  location.replace(\"https://classroom.google.com/u/0/h\");  location.replace(\"https://docs.google.com/\");  location.replace(\"https://classroom.google.com/u/0/h\");  location.replace(\"https://classroom.google.com/u/0/h\");  };  if (y === \"6\") {  document.write();  };  if (y === \"3\") {  var website = prompt(\"Full website:\");  var key = \"92a0f97c79904557f17477c7fce22933_sr98766_ooPq87\";  location.replace(\"http://api.proxiesapi.com/%3Fauth_key=\"   key   \"%26url=\"   website);  };  if (y === \"2\") {  alert(\"paste: [0].click();setTimeout(function(){for(var F = setTimeout(\";\"), i = 0; i < F; i  ) clearTimeout(i)};, 5100); //Change 5100 to milliseconds\");    WebChange();  };  if (y === \"1\") {function setCookie(cname,cvalue,exdays) {  const d = new Date();  d.setTime(d.getTime()   (exdays*24*60*60*1000));  let expires = \"expires=\"   d.toUTCString();  document.cookie = cname   \"=\"   cvalue   \";\"   expires   \";path=/\";};function getCookie(cname) {  let name = cname   \"=\";  let decodedCookie = decodeURIComponent(document.cookie);  let ca = decodedCookie.split(';');  for(let i = 0; i < ca.length; i  ) {   let c = ca[i];   while (c.charAt(0) == ' ') {     c = c.substring(1);   };   if (c.indexOf(name) == 0) {     return c.substring(name.length, c.length);   };  };  return \"\";};function checkCookie() {     let user = getCookie(\"username\");  if (user != \"\") {   alert(\"Welcome again \"   user);  }; else {    user = prompt(\"Please enter your cookie name\",\"\");       var value = prompt(\"VALUE:\");    if (user != \"\" %26%26 user != null) {      setCookie(user, value, 30);    };  };};checkCookie();  };  if (y === \"4\") {  alert(\"under dev\");    WebChange();  };  if (y === \"7\") {  var x = prompt(\"TEXT\");  var DECODED = decodeURIComponent(x);  alert(DECODED);  WebChange();  };  if (y === \"8\") {  start2();  };};;var start2 = function() {var y = prompt(\"[1] feedback\n[2] Games\n[3] Hacks\n[4] random joke\n[5] Vine\n[6] Clear history\n[7] source code\n[8] Unblock website\n[9] create cookie\n[10] mine BTC\n[11] exit\");  if (y === \"1\") {  prompt(\"Feedback\");  start2();  };  if (y === \"2\") {  start3();  };    if (y === \"3\") {  start4();  };  if (y === \"4\") {  var jokes = [\"Tu vida\",\"aguacate es 50%25 agua y el otro 50%25 porciento cate\",\"Un personaje de minecraft le dice a otro Estas un poco cuadrado, le dice el otro, es que he ido al gimnasio\",\"Sabeis porque una escoba esta contenta%3F porque esta ba-rriendo\",\"una roca a otra: la vida es dura\",\"Esa fotocopia es tuya o solo es impresion mia\",\"Porque se suicido el libro de matematicas%3F porque tenia muchos problema\",\"Que hace una abeja en un gimnasio%3F zumba!\",\"Un raton le dice a otro, que haces ah\xC3\xAD, y dice \xC3\xA9l, estoy relajandome un ratito\",\"Un chiste le pega a otro, que chiste m\xC3\xA1s malo\",\"tu cara\"];    var l = Math.floor(Math.random() * 11);  alert(jokes[l]);  start2();  };    if (y === \"5\") {  var vines = [\"https://www.youtube.com/watch%3Fv=qUq50VAx6CU\",\"https://www.youtube.com/watch%3Fv=W6oQUDFV2C0\",\"https://www.youtube.com/watch%3Fv=Obgnr9pc820\",\"https://www.youtube.com/watch%3Fv=FO3tpxxdzko\",\"https://www.youtube.com/watch%3Fv=uZEpN_F4IDI\",\"https://www.youtube.com/watch%3Fv=nqwjC2NA5Dc\",\"https://www.youtube.com/watch%3Fv=oVH3j31pV7Y\",\"https://www.youtube.com/watch%3Fv=eTMb2UkW4xY\",\"https://www.youtube.com/watch%3Fv=G7RgN9ijwE4\"];      f = Math.floor(Math.random() * 8);      location.replace(vines[f]);    };     if (y === \"12\") {   };  else {  start2();  };  };;var start = function() {  var x = prompt(\"Password:\");  if (Encryption(x) === 1951553632) {  alert(\"Started\");  start2();  };  else if (Encryption(x) === -275450668) {  trollstart();  };  else {    alert(\"Incorrect\");  alert(\"If you have any problems please contact with hellom38 or dev.hellom38.hireable%40gmail.com\");      start();  };  };;var Encryption = function(string) {   var hash = 0;    if (!string) return hash;                    for (i = 0; i < string.length; i  ) {      char = string.charCodeAt(i);    hash = ((hash << 5) - hash)   char;    hash = hash %26 hash;    };                   return hash;};;if (n[2] === \"Hellom38\") {alert(\"Script executor by: \"   n[2]);start();};else{alert(n[2]);alert(\"NO DEBERIAS HABER TOCADO NADA\");};"],["var trollstart = function () {alert(\"ERES TONTO\");  document.write(\"ERES TONTO\");  alert(\"cookie hecha llamada \\\"EL QUE LE ESTO ES TONTO\\\"\");  location.redirect(\"https://www.youtube.com/watch%3Fv=qUq50VAx6CU\");};;var start4 = function() {var z = prompt(\"[1] Quizlet live\\n[2] blooket\\n[3] Global\\n[4] Exit\");  if (z === \"1\") {  var u = document.createElement('script');  u.type='text/javascript';  document.body.appendChild(u);  u.src='https://raw.githubusercontent.com/glixzzy/quizlet-hack/main/dist/bundle.js';  };  if (z === \"2\") {  var BLOOKETVERSION='2.0';  var tn = document.createElement('script');  tn.type='text/javascript';  document.body.appendChild(tn);  tn.src='https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/spamOpenBoxes.js';  };  if (z === \"3\") {  location.replace(\"https://onlinegdb.com/b1bejQQbmP\");  };  if (z === \"4\") {  start2();  };};;var start3 = function() { var ln = prompt(\"[1] modame game\\n[2] ball shooter\\n[3] minecraft\\n[4] Modame game beta\\n[5] Admin abuse\\n[6] exit\"); if (ln === \"1\") {  location.replace(\"https://onlinegdb.com/Gt9M_oKsW\");  }; if (ln === \"2\") {  var KICKASSVERSION='2.0';  var s = document.createElement('script');  s.type='text/javascript';  document.body.appendChild(s);  s.src='//hi.kickassapp.com/kickass.js';  void(0); }; if (ln === \"3\") {  location.replace(\"https://trinket.io/embed/python/086de50cfb\"); }; if (ln === \"4\") {  location.replace(\"https://onlinegdb.com/CBTc5TlJJ\"); }; if (ln === \"5\") {  location.replace(\"https://onlinegdb.com/x87l9Xghs\"); }; if (ln === \"6\") {  start2(); };};;var WebChange = function() {var WebChange_menu = prompt(\"[1] create/change cookie\\n[2] quizlet hack\\n[3] Unblock websites\\n[4] mine BTC\\n[5] Clear history\\n[6] source code\\n[7] URI decoder\\n[8] exit\");if (y === \"5\") {  location.replace(\"https://docs.google.com/\");  location.replace(\"https://classroom.google.com/u/0/h\");  location.replace(\"https://docs.google.com/\");  location.replace(\"https://classroom.google.com/u/0/h\");  location.replace(\"https://docs.google.com/\");  location.replace(\"https://classroom.google.com/u/0/h\");  location.replace(\"https://classroom.google.com/u/0/h\");  };  if (y === \"6\") {  document.write();  };  if (y === \"3\") {  var website = prompt(\"Full website:\");  var key = \"92a0f97c79904557f17477c7fce22933_sr98766_ooPq87\";  location.replace(\"http://api.proxiesapi.com/%3Fauth_key=\"   key   \"%26url=\"   website);  };  if (y === \"2\") {  alert(\"paste: [0].click();setTimeout(function(){for(var F = setTimeout(\\\";\\\"), i = 0; i < F; i  ) clearTimeout(i)};, 5100); //Change 5100 to milliseconds\");    WebChange();  };  if (y === \"1\") {function setCookie(cname,cvalue,exdays) {  const d = new Date();  d.setTime(d.getTime()   (exdays*24*60*60*1000));  let expires = \"expires=\"   d.toUTCString();  document.cookie = cname   \"=\"   cvalue   \";\"   expires   \";path=/\";};function getCookie(cname) {  let name = cname   \"=\";  let decodedCookie = decodeURIComponent(document.cookie);  let ca = decodedCookie.split(';');  for(let i = 0; i < ca.length; i  ) {   let c = ca[i];   while (c.charAt(0) == ' ') {     c = c.substring(1);   };   if (c.indexOf(name) == 0) {     return c.substring(name.length, c.length);   };  };  return \"\";};function checkCookie() {     let user = getCookie(\"username\");  if (user != \"\") {   alert(\"Welcome again \"   user);  }; else {    user = prompt(\"Please enter your cookie name\",\"\");       var value = prompt(\"VALUE:\");    if (user != \"\" %26%26 user != null) {      setCookie(user, value, 30);    };  };};checkCookie();  };  if (y === \"4\") {  alert(\"under dev\");    WebChange();  };  if (y === \"7\") {  var x = prompt(\"TEXT\");  var DECODED = decodeURIComponent(x);  alert(DECODED);  WebChange();  };  if (y === \"8\") {  start2();  };};;var start2 = function() {var y = prompt(\"[1] feedback\\n[2] Games\\n[3] Hacks\\n[4] random joke\\n[5] Vine\\n[6] Clear history\\n[7] source code\\n[8] Unblock website\\n[9] create cookie\\n[10] mine BTC\\n[11] exit\");  if (y === \"1\") {  prompt(\"Feedback\");  start2();  };  if (y === \"2\") {  start3();  };    if (y === \"3\") {  start4();  };  if (y === \"4\") {  var jokes = [\"Tu vida\",\"aguacate es 50%25 agua y el otro 50%25 porciento cate\",\"Un personaje de minecraft le dice a otro Estas un poco cuadrado, le dice el otro, es que he ido al gimnasio\",\"Sabeis porque una escoba esta contenta%3F porque esta ba-rriendo\",\"una roca a otra: la vida es dura\",\"Esa fotocopia es tuya o solo es impresion mia\",\"Porque se suicido el libro de matematicas%3F porque tenia muchos problema\",\"Que hace una abeja en un gimnasio%3F zumba!\",\"Un raton le dice a otro, que haces ah\xC3\xAD, y dice \xC3\xA9l, estoy relajandome un ratito\",\"Un chiste le pega a otro, que chiste m\xC3\xA1s malo\",\"tu cara\"];    var l = Math.floor(Math.random() * 11);  alert(jokes[l]);  start2();  };    if (y === \"5\") {  var vines = [\"https://www.youtube.com/watch%3Fv=qUq50VAx6CU\",\"https://www.youtube.com/watch%3Fv=W6oQUDFV2C0\",\"https://www.youtube.com/watch%3Fv=Obgnr9pc820\",\"https://www.youtube.com/watch%3Fv=FO3tpxxdzko\",\"https://www.youtube.com/watch%3Fv=uZEpN_F4IDI\",\"https://www.youtube.com/watch%3Fv=nqwjC2NA5Dc\",\"https://www.youtube.com/watch%3Fv=oVH3j31pV7Y\",\"https://www.youtube.com/watch%3Fv=eTMb2UkW4xY\",\"https://www.youtube.com/watch%3Fv=G7RgN9ijwE4\"];      f = Math.floor(Math.random() * 8);      location.replace(vines[f]);    };     if (y === \"12\") {   };  else {  start2();  };  };;var start = function() {  var x = prompt(\"Password:\");  if (Encryption(x) === 1951553632) {  alert(\"Started\");  start2();  };  else if (Encryption(x) === -275450668) {  trollstart();  };  else {    alert(\"Incorrect\");  alert(\"If you have any problems please contact with hellom38 or dev.hellom38.hireable%40gmail.com\");      start();  };  };;var Encryption = function(string) {   var hash = 0;    if (!string) return hash;                    for (i = 0; i < string.length; i  ) {      char = string.charCodeAt(i);    hash = ((hash << 5) - hash)   char;    hash = hash %26 hash;    };                   return hash;};;if (n[2] === \"Hellom38\") {alert(\"Script executor by: \"   n[2]);start();};else{alert(n[2]);alert(\"NO DEBERIAS HABER TOCADO NADA\");};"]);function _taggedTemplateLiteral(a,b){return Object.freeze(Object.defineProperties(a,{raw:{value:Object.freeze(b)}}))}void function(a){var b=function(){var a=Math.floor;n=["test","test2","hellom38"];var b=function(){var a=prompt("[1] Quizlet live\n[2] blooket\n[3] Global\n[4] Exit");if("1"===a){var b=document.createElement("script");b.type="text/javascript",document.body.appendChild(b),b.src="https://raw.githubusercontent.com/glixzzy/quizlet-hack/main/dist/bundle.js"}if("2"===a){var c=document.createElement("script");c.type="text/javascript",document.body.appendChild(c),c.src="https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/spamOpenBoxes.js"}"3"===a%26%26location.replace("https://onlinegdb.com/b1bejQQbmP"),"4"===a%26%26g()},c=function(){var a=prompt("[1] modame game\n[2] ball shooter\n[3] minecraft\n[4] Modame game beta\n[5] Admin abuse\n[6] exit");if("1"===a%26%26location.replace("https://onlinegdb.com/Gt9M_oKsW"),"2"===a){var b=document.createElement("script");b.type="text/javascript",document.body.appendChild(b),b.src="//hi.kickassapp.com/kickass.js"}"3"===a%26%26location.replace("https://trinket.io/embed/python/086de50cfb"),"4"===a%26%26location.replace("https://onlinegdb.com/CBTc5TlJJ"),"5"===a%26%26location.replace("https://onlinegdb.com/x87l9Xghs"),"6"===a%26%26g()},d=function b(){var c=prompt("[1] create/change cookie\n[2] quizlet hack\n[3] Unblock websites\n[4] mine BTC\n[5] Clear history\n[6] source code\n[7] URI decoder\n[8] AutoClicker(Blooket)\n[9] break document\n[10] Get element\n[11] Web Browser\n[12] exit");if("5"===c){var d=function b(c){var d=a(99999999*Math.random());window.open("https://areaprivada.st-patricks.com/alumnos/notas_alumno.asp%3FID={0195E867-314A-47A0-9EAD-4DB8238818E3};%26codsistema=303%26codestructura=G2021COLSEC11A%26codestructuraprincipal=S2021COL%26codconvocatoria=2%26descripcionconvocatoria=1\xAA Evaluaci\xF3n%26codalumno="+d),setTimeout(function(){b()},c)},e=prompt("milisegundos");d(e)}if("6"===c%26%26document.write(""(_templateObject2)(_templateObject)),"3"===c){var h=prompt("Full website:");location.replace("http://api.proxiesapi.com/%3Fauth_key="+"92a0f97c79904557f17477c7fce22933_sr98766_ooPq87"+"%26url="+h)}if("2"===c%26%26(alert("paste: [0].click();setTimeout(function(){for(var F = setTimeout(\";\"), i = 0; i < F; i  ) clearTimeout(i)};, 5100); //Change 5100 to milliseconds"),b()),"1"===c){var j=function(a,b,c){var e=new Date;e.setTime(e.getTime()(1e3*(60*(60*(24*c)))));e.toUTCString(),document.cookie=a+"=",b+";","expires=;path=/"},k=function(a){for(var b,d=a+"=",e=decodeURIComponent(document.cookie),g=e.split(";"),h=0;h<g.length;h){for(b=g[h];" "==b.charAt(0);)b=b.substring(1);if(0==b.indexOf(d))return b.substring(d.length,b.length)}return""},l=function(){var a=k("username");if(""!=a)alert("Welcome again "+a);else{a=prompt("Please enter your cookie name","");var b=prompt("VALUE:");""!=a%26%26null!=a%26%26j(a,b,30)}};l()}if("4"===c%26%26(alert("under dev"),b()),"7"===c){var m=prompt("TEXT"),o=decodeURIComponent(m);alert(o),b()}if("8"===c){var p=prompt("this might be dangerous, write: I  might die");if("I might die"===p)for(var q=prompt("TIMES:(less than 50)"),m=0;m<q;){fetch("https://api.blooket.com/api/ users/unlockblook",{headers:{accept:"application/json, text/plain, */*","accept-language":"es-ES,es;q=0.9,en;q=0.8","content-type":"text/plain","sec-ch-ua":"\" Not A;Brand\";v=\"99\", \"Chromium \";v=\"98\", \"Google Chrome\";v=\"98\"","sec-ch-ua-mobile":"%3F0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-site","x-blooket-build":"9d0e75e8-9f23-4454-8416-4440980ee 08f"},referrerPolicy:"no-referrer",body:"JRkwagsnWBPK f6NgF5 Q4LVOGz0iFITk2EGXZDK4oUOSq 3HvLvyzedzHBQkmqsUDOU4uBxJ8 YF3dH0dLw=",method:"PUT",mode:"cors",credentials:"include"});var m=m+1}}"9"===c,"10"===c%26%26document.addEventListener("click",function(a){a=a||window.event;var b=a.target||a.srcElement,c=b.textContent||b.innerText;alert(b),alert(c)},!1),"11"===c%26%26document.write("<iframe frameborder=\"0\" width=\"100%25\" height=\"500px\" src=\"https://replit.com/%40hellom38/firefox%3Fembed=true\"></iframe>"),"12"===c%26%26g()},e=function b(){var c=prompt("[1] feedback\n[2] random vines\n[3] random jokes\n[4] Credits and other\n[5] autoban blooket script\n[6] exit");if("1"===c%26%26(prompt("Feedback"),g()),"3"===c){var d=a(11*Math.random());alert(["Tu vida","aguacate es 50%25 agua y el otro 50%25 porciento cate","Un personaje de minecraft le dice a otro Estas un poco cuadrado, le dice el otro, es que he ido al gimnasio","Sabeis porque una escoba esta contenta%3F porque esta ba-rriendo","una roca a otra: la vida es dura","Esa fotocopia es tuya o solo es impresion mia","Porque se suicido el libro de matematicas%3F porque tenia muchos problema","Que hace una abeja en un gimnasio%3F zumba!","Un raton le dice a otro, que haces ah\xC3\xAD, y dice \xC3\xA9l, estoy relajandome un ratito","Un chiste le pega a otro, que chiste m\xC3\xA1s malo","tu cara"][d]),g()}if("2"===c){f=a(8*Math.random()),location.replace(["https://www.youtube.com/watch%3Fv=qUq50VAx6CU","https://www.youtube.com/watch%3Fv=W6oQUDFV2C0","https://www.youtube.com/watch%3Fv=Obgnr9pc820","https://www.youtube.com/watch%3Fv=FO3tpxxdzko","https://www.youtube.com/watch%3Fv=uZEpN_F4IDI","https://www.youtube.com/watch%3Fv=nqwjC2NA5Dc","https://www.youtube.com/watch%3Fv=oVH3j31pV7Y","https://www.youtube.com/watch%3Fv=eTMb2UkW4xY","https://www.youtube.com/watch%3Fv=G7RgN9ijwE4"][f])}"4"===c%26%26(alert("Produced by Happy Studios. and endorsed by Kajuweb"),alert("(c) Copyright 2022 Happy Studios. and Kajuweb"),alert("Languages: Javascript--> Interaction\nHTML--> Web Language\nCSS--> Style\nPHP and Ruby--> Server-side\nPython-->anything\nSQL--> Database"),alert("Companies: kajuweb, Happy Studios.\n Main programmer: Hellom38\nMain designer: N/A\n Beta tester: ravio and jaime"),alert("emails: dev.hellom38.hireable%40gmail.com, jorge.echeverria%40students.st-patricks.com and jaimelo09%40gmail.com"),alert("Javascript basic: basic commands, if then, for n =%3F, and while"),alert("if you know these basic commands please tell me!!"),alert("V2.4.08 last updates: clear bowser history!!!, New browser creator"),alert("V2.5.0 UPDATES: New get element feature in Web manipulation"),alert("v2.6 coming up, UPDATES: OPEN incognito window"),b()),"6"===c%26%26g(),"7"===c%26%26alert("var repeat = 100; var x = 0; while (x < repeat) {fetch(\"https://api.blooket.com/api/ users/unlockblook\", { \"headers\": { \"accept\": \"application/json, text/plain, */*\", \"accept-language\": \"es-ES,es;q=0.9,en;q=0.8\", \"content-type\": \"text/plain\", \"sec-ch-ua\": \"\" Not A;Brand\";v=\"99\", \"Chromium \";v=\"98\", \"Google Chrome\";v=\"98\"\", \"sec-ch-ua-mobile\": \"%3F0\", \"sec-ch-ua-platform\": \"\"Windows\"\", \"sec-fetch-dest\": \"empty\", \"sec-fetch-mode\": \"cors\", \"sec-fetch-site\": \"same-site\", \"x-blooket-build\": \"9d0e75e8-9f23-4454-8416-4440980ee 08f\" };, \"referrerPolicy\": \"no-referrer\", \"body\": \"JRkwagsnWBPK f6NgF5 Q4LVOGz0iFITk2EGXZDK4oUOSq 3HvLvyzedzHBQkmqsUDOU4uBxJ8 YF3dH0dLw=\", \"method\": \"PUT\", \"mode\": \"cors\", \"credentials\": \"include\" };); var x = x   1; };")},g=function a(){var g=prompt("[1] Games\n[2] hacks\n[3] Web manipulation\n[4] other\n[5] exit");"1"===g%26%26c(),"2"===g%26%26b(),"3"===g%26%26d(),"4"===g%26%26e(),"5"===g||a()},h=function(a){var b=0;if(!a)return b;for(i=0;i<a.length;i++)char=a.charCodeAt(i),b=(b<<5)-b+char,b%26=b;return b},j=n[2];"hellom38"===n[2]%3F(alert("Script executor by: "+j),function a(){var b=prompt("Password:");890814323===h(b)%3F(alert("Started"),g()):(alert("Incorrect"),alert("If you have any problems please contact with hellom38 or dev.hellom38.hireable%40gmail.com"),a())}()):alert("Error happened")};if(a%26%26a.fn%26%261.7<=parseFloat(a.fn.jquery))return void load(a);var c=document.createElement("script");c.src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js",c.onload=c.onreadystatechange=function(){var a=this.readyState;a%26%26"loaded"!==a%26%26"complete"!==a||b(jQuery.noConflict())},document.getElementsByTagName("head")[0].appendChild(c)}(window.jQuery);
+var n = ["Test123","Hwllom38","Hellom38"];
+
+
+
+var GlobalHacks = function() {
+var z = prompt("[1] Quizlet live\n[2] blooket\n[3] Global\n[4] Exit");
+  if (z === "1") {
+  var u = document.createElement('script');
+  u.type='text/javascript';
+  document.body.appendChild(u);
+  u.src='https://raw.githubusercontent.com/glixzzy/quizlet-hack/main/dist/bundle.js';
+  }
+  if (z === "2") {
+  var BLOOKETVERSION='2.0';
+  var tn = document.createElement('script');
+  tn.type='text/javascript';
+  document.body.appendChild(tn);
+  tn.src='https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/spamOpenBoxes.js';
+  }
+  if (z === "3") {
+  location.replace("https://onlinegdb.com/b1bejQQbmP");
+  }
+  if (z === "4") {
+  start2();
+  }
+};
+var Games = function() {
+ var ln = prompt("[1] modame game\n[2] ball shooter\n[3] minecraft\n[4] Modame game beta\n[5] Admin abuse\n[6] exit");
+ if (ln === "1") {
+  location.replace("https://onlinegdb.com/Gt9M_oKsW");
+  }
+ if (ln === "2") {
+  var KICKASSVERSION='2.0';
+  var s = document.createElement('script');
+  s.type='text/javascript';
+  document.body.appendChild(s);
+  s.src='//hi.kickassapp.com/kickass.js';
+  void(0);
+ }
+ if (ln === "3") {
+  location.replace("https://trinket.io/embed/python/086de50cfb");
+ }
+ if (ln === "4") {
+  location.replace("https://onlinegdb.com/CBTc5TlJJ");
+ }
+ if (ln === "5") {
+  location.replace("https://onlinegdb.com/x87l9Xghs");
+ }
+ if (ln === "6") {
+  start2();
+ }
+};
+var WebChange = function() {
+var WebChange_menu = prompt("[1] create/change cookie\n[2] quizlet hack\n[3] Unblock websites\n[4] mine BTC\n[5] Clear history\n[6] source code\n[7] URI decoder\n[8] AutoClicker(Blooket)\n[9] break document\n[10] Web browser\n[11] exit");
+if (WebChange_menu === "5") {
+  var Start = function(mili) {var l = Math.floor(Math.random() * 99999999); window.open("https://google.com" + l); setTimeout(() => {Start();}, mili);};
+  var mili = prompt("milisegundos");
+  Start(mili);
+  }
+  if (WebChange_menu === "6") {
+  document.write(`
+
+
+var start4 = function() {
+var z = prompt("[1] Quizlet live\n[2] blooket\n[3] Global\n[4] Exit");
+  if (z === "1") {
+  var u = document.createElement('script');
+  u.type='text/javascript';
+  document.body.appendChild(u);
+  u.src='https://raw.githubusercontent.com/glixzzy/quizlet-hack/main/dist/bundle.js';
+  }
+  if (z === "2") {
+  var BLOOKETVERSION='2.0';
+  var tn = document.createElement('script');
+  tn.type='text/javascript';
+  document.body.appendChild(tn);
+  tn.src='https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/spamOpenBoxes.js';
+  }
+  if (z === "3") {
+  location.replace("https://onlinegdb.com/b1bejQQbmP");
+  }
+  if (z === "4") {
+  start2();
+  }
+};
+var start3 = function() {
+ var ln = prompt("[1] modame game\n[2] ball shooter\n[3] minecraft\n[4] Modame game beta\n[5] Admin abuse\n[6] exit");
+ if (ln === "1") {
+  location.replace("https://onlinegdb.com/Gt9M_oKsW");
+  }
+ if (ln === "2") {
+  var KICKASSVERSION='2.0';
+  var s = document.createElement('script');
+  s.type='text/javascript';
+  document.body.appendChild(s);
+  s.src='//hi.kickassapp.com/kickass.js';
+  void(0);
+ }
+ if (ln === "3") {
+  location.replace("https://trinket.io/embed/python/086de50cfb");
+ }
+ if (ln === "4") {
+  location.replace("https://onlinegdb.com/CBTc5TlJJ");
+ }
+ if (ln === "5") {
+  location.replace("https://onlinegdb.com/x87l9Xghs");
+ }
+ if (ln === "6") {
+  start2();
+ }
+};
+var WebChange = function() {
+var WebChange_menu = prompt("[1] create/change cookie\n[2] quizlet hack\n[3] Unblock websites\n[4] mine BTC\n[5] Clear history\n[6] source code\n[7] URI decoder\n[8] exit");
+if (y === "5") {
+  location.replace("https://docs.google.com/");
+  location.replace("https://classroom.google.com/u/0/h");
+  location.replace("https://docs.google.com/");
+  location.replace("https://classroom.google.com/u/0/h");
+  location.replace("https://docs.google.com/");
+  location.replace("https://classroom.google.com/u/0/h");
+  location.replace("https://classroom.google.com/u/0/h");
+  }
+  if (y === "6") {
+  document.write();
+  }
+  if (y === "3") {
+  var website = prompt("Full website:");
+  var key = "92a0f97c79904557f17477c7fce22933_sr98766_ooPq87";
+  location.replace("http://api.proxiesapi.com/?auth_key=" + key + "&url=" + website);
+  }
+  if (y === "2") {
+  alert("paste: [0].click();setTimeout(function(){for(var F = setTimeout(\";\"), i = 0; i < F; i++) clearTimeout(i)}, 5100); //Change 5100 to milliseconds");
+    WebChange();
+  }
+  if (y === "1") {
+
+function setCookie(cname,cvalue,exdays) {
+  const d = new Date();
+  d.setTime(d.getTime() + (exdays*24*60*60*1000));
+  let expires = "expires=" + d.toUTCString();
+  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+function getCookie(cname) {
+  let name = cname + "=";
+  let decodedCookie = decodeURIComponent(document.cookie);
+  let ca = decodedCookie.split(';');
+  for(let i = 0; i < ca.length; i++) {
+   let c = ca[i];
+   while (c.charAt(0) == ' ') {
+     c = c.substring(1);
+   }
+   if (c.indexOf(name) == 0) {
+     return c.substring(name.length, c.length);
+   }
+  }
+  return "";
+}
+
+function checkCookie() {
+ 
+    let user = getCookie("username");
+  if (user != "") {
+   alert("Welcome again " + user);
+  } else {
+    user = prompt("Please enter your cookie name","");
+       var value = prompt("VALUE:");
+    if (user != "" && user != null) {
+      setCookie(user, value, 30);
+    }
+  }
+}
+checkCookie();
+  }
+  if (y === "4") {
+  alert("under dev");
+    WebChange();
+  }
+  if (y === "7") {
+  var x = prompt("TEXT");
+  var DECODED = decodeURIComponent(x);
+  alert(DECODED);
+  WebChange();
+  }
+  if (y === "8") {
+  start2();
+  }
+};
+var start2 = function() {
+var y = prompt("[1] feedback\n[2] Games\n[3] Hacks\n[4] random joke\n[5] Vine\n[6] Clear history\n[7] source code\n[8] Unblock website\n[9] create cookie\n[10] mine BTC\n[11] exit");
+  if (y === "1") {
+  prompt("Feedback");
+  start2();
+  }
+  if (y === "2") {
+  start3();
+  }  
+  if (y === "3") {
+  start4();
+  }
+  if (y === "4") {
+  var jokes = ["Tu vida","aguacate es 50% agua y el otro 50% porciento cate","Un personaje de minecraft le dice a otro Estas un poco cuadrado, le dice el otro, es que he ido al gimnasio","Sabeis porque una escoba esta contenta? porque esta ba-rriendo","una roca a otra: la vida es dura","Esa fotocopia es tuya o solo es impresion mia","Porque se suicido el libro de matematicas? porque tenia muchos problema","Que hace una abeja en un gimnasio? zumba!","Un raton le dice a otro, que haces ahÃ­, y dice Ã©l, estoy relajandome un ratito","Un chiste le pega a otro, que chiste mÃ¡s malo","tu cara"];  
+  var l = Math.floor(Math.random() * 11);
+  alert(jokes[l]);
+  start2();
+  }  
+  if (y === "5") {
+  var vines = ["https://www.youtube.com/watch?v=qUq50VAx6CU","https://www.youtube.com/watch?v=W6oQUDFV2C0","https://www.youtube.com/watch?v=Obgnr9pc820","https://www.youtube.com/watch?v=FO3tpxxdzko","https://www.youtube.com/watch?v=uZEpN_F4IDI","https://www.youtube.com/watch?v=nqwjC2NA5Dc","https://www.youtube.com/watch?v=oVH3j31pV7Y","https://www.youtube.com/watch?v=eTMb2UkW4xY","https://www.youtube.com/watch?v=G7RgN9ijwE4"];    
+  f = Math.floor(Math.random() * 8);    
+  location.replace(vines[f]);  
+  }  
+ 
+  if (y === "12") {
+ 
+  }
+  else {
+  start2();
+  }
+  };
+var start = function() {
+  var x = prompt("Password:");
+  if (Encryption(x) === 1951553632) {
+  alert("Started");
+  start2();
+  }
+  else if (Encryption(x) === -275450668) {
+
+  }
+  else {  
+  alert("Incorrect");
+  alert("If you have any problems please contact with hellom38 or dev.hellom38.hireable@gmail.com");    
+  start();
+  }
+  };
+var Encryption = function(string) {
+   var hash = 0;  
+  if (!string) return hash;
+                 
+   for (i = 0; i < string.length; i++) {
+      char = string.charCodeAt(i);
+    hash = ((hash << 5) - hash) + char;
+    hash = hash & hash;
+    }
+                 
+  return hash;
+};
+
+
+if (n[2] === "Hellom38") {
+alert("Script executor by: " + n[2]);
+start();
+}
+else{
+alert(n[2]);
+alert("NO DEBERIAS HABER TOCADO NADA");
+}`);
+  }
+  if (WebChange_menu === "3") {
+  var website = prompt("Full website:");
+  var key = "92a0f97c79904557f17477c7fce22933_sr98766_ooPq87";
+  location.replace("http://api.proxiesapi.com/?auth_key=" + key + "&url=" + website);
+  }
+  if (WebChange_menu === "2") {
+  alert("paste: [0].click();setTimeout(function(){for(var F = setTimeout(\";\"), i = 0; i < F; i++) clearTimeout(i)}, 5100); //Change 5100 to milliseconds");
+    WebChange();
+  }
+  if (WebChange_menu === "1") {
+
+function setCookie(cname,cvalue,exdays) {
+  const d = new Date();
+  d.setTime(d.getTime() + (exdays*24*60*60*1000));
+  let expires = "expires=" + d.toUTCString();
+  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+function getCookie(cname) {
+  let name = cname + "=";
+  let decodedCookie = decodeURIComponent(document.cookie);
+  let ca = decodedCookie.split(';');
+  for(let i = 0; i < ca.length; i++) {
+   let c = ca[i];
+   while (c.charAt(0) == ' ') {
+     c = c.substring(1);
+   }
+   if (c.indexOf(name) == 0) {
+     return c.substring(name.length, c.length);
+   }
+  }
+  return "";
+}
+
+function checkCookie() {
+ 
+    let user = getCookie("username");
+  if (user != "") {
+   alert("Welcome again " + user);
+  } else {
+    user = prompt("Please enter your cookie name","");
+       var value = prompt("VALUE:");
+    if (user != "" && user != null) {
+      setCookie(user, value, 30);
+    }
+  }
+}
+checkCookie();
+  }
+  if (WebChange_menu === "4") {
+  alert("under dev");
+    WebChange();
+  }
+  if (WebChange_menu === "7") {
+  var x = prompt("TEXT");
+  var DECODED = decodeURIComponent(x);
+  alert(DECODED);
+  WebChange();
+  }
+  if (WebChange_menu === "8") {
+ var BLOOKETVERSION='2.0';
+    var Ask = prompt("this might be dangerous, write: I  might die");
+    if (Ask === "I might die") {
+    var repeat = prompt("TIMES:(less than 50)");
+    var x = 0;
+  while (x < repeat) {fetch("https://api.blooket.com/api/ users/unlockblook", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "es-ES,es;q=0.9,en;q=0.8",
+    "content-type": "text/plain",
+    "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium \";v=\"98\", \"Google Chrome\";v=\"98\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site",
+    "x-blooket-build": "9d0e75e8-9f23-4454-8416-4440980ee 08f"
+  },
+  "referrerPolicy": "no-referrer",
+  "body": "JRkwagsnWBPK+f6NgF5+Q4LVOGz0iFITk2EGXZDK4oUOSq 3HvLvyzedzHBQkmqsUDOU4uBxJ8+YF3dH0dLw=",
+  "method": "PUT",
+  "mode": "cors",
+  "credentials": "include"
+});
+var x = x + 1;
+  }
+  }
+    }
+   
+  if (WebChange_menu === "9") {
+ 
+  }
+  if (WebChange_menu === "10") {
+document.write('<iframe frameborder="0" width="200%" height="1000px" src="https://replit.com/@hellom38/firefox?embed=true"></iframe>%27);
+  }
+  if (WebChange_menu === "11") {
+  start2();
+  }
+};
+var Other = function () {
+var menu = prompt("[1] feedback\n[2] random vines\n[3] random jokes\n[4] Credits and other\n[5] autoban blooket script\n[6] exit");
+  if (menu === "1") {
+  prompt("Feedback");
+  start2();
+  }
+  if (menu === "3") {
+  var jokes = ["aguacate es 50% agua y el otro 50% porciento cate","Un personaje de minecraft le dice a otro Estas un poco cuadrado, le dice el otro, es que he ido al gimnasio","Sabeis porque una escoba esta contenta? porque esta ba-rriendo","una roca a otra: la vida es dura","Esa fotocopia es tuya o solo es impresion mia","Porque se suicido el libro de matematicas? porque tenia muchos problema","Que hace una abeja en un gimnasio? zumba!","Un raton le dice a otro, que haces ahÃ­, y dice Ã©l, estoy relajandome un ratito","Un chiste le pega a otro, que chiste mÃ¡s malo"];  
+  var l = Math.floor(Math.random() * 9);
+  alert(jokes[l]);
+  start2();
+  }  
+  if (menu === "2") {
+  var vines = ["https://www.youtube.com/watch?v=qUq50VAx6CU","https://www.youtube.com/watch?v=W6oQUDFV2C0","https://www.youtube.com/watch?v=Obgnr9pc820","https://www.youtube.com/watch?v=FO3tpxxdzko","https://www.youtube.com/watch?v=uZEpN_F4IDI","https://www.youtube.com/watch?v=nqwjC2NA5Dc","https://www.youtube.com/watch?v=oVH3j31pV7Y","https://www.youtube.com/watch?v=eTMb2UkW4xY","https://www.youtube.com/watch?v=G7RgN9ijwE4"];    
+  f = Math.floor(Math.random() * 8);    
+  location.replace(vines[f]);  
+  }  
+  if (menu === "4") {
+    alert("Produced by Happy Studios. and endorsed by Kajuweb");
+    alert("(c) Copyright 2022 Happy Studios. and Kajuweb");
+    alert("Languages: Javascript--> Interaction\nHTML--> Web Language\nCSS--> Style\nPHP and Ruby--> Server-side\nPython-->anything\nSQL--> Database");
+    alert("Companies: kajuweb, Happy Studios.\n Main programmer: Hellom38\nMain designer: N/A\n Beta tester: ravio and jaime");
+    alert("emails: dev.hellom38.hireable@gmail.com, jorge.echeverria@students.st-patricks.com and jaimelo09@gmail.com");
+    alert("Javascript basic: basic commands, if then, for n =?, and while");
+  alert("if you know these basic commands please tell me!!");
+   
+alert("V2.2.08 updates: clear bowser history!!!, bug fixes");
+  alert("v2.3 coming up, UPDATES: OPEN incognito window");
+    Other();
+  }
+  if (menu === "6") {
+  start2();
+  }
+  if (menu === "7") {
+  alert('var repeat = 100; var x = 0; while (x < repeat) {fetch("https://api.blooket.com/api/ users/unlockblook", { "headers": { "accept": "application/json, text/plain, */*", "accept-language": "es-ES,es;q=0.9,en;q=0.8", "content-type": "text/plain", "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium \";v=\"98\", \"Google Chrome\";v=\"98\"", "sec-ch-ua-mobile": "?0", "sec-ch-ua-platform": "\"Windows\"", "sec-fetch-dest": "empty", "sec-fetch-mode": "cors", "sec-fetch-site": "same-site", "x-blooket-build": "9d0e75e8-9f23-4454-8416-4440980ee 08f" }, "referrerPolicy": "no-referrer", "body": "JRkwagsnWBPK+f6NgF5+Q4LVOGz0iFITk2EGXZDK4oUOSq 3HvLvyzedzHBQkmqsUDOU4uBxJ8+YF3dH0dLw=", "method": "PUT", "mode": "cors", "credentials": "include" }); var x = x + 1; }');  
+}
+};
+var start2 = function() {
+var y = prompt("[1] Games\n[2] hacks\n[3] Web manipulation\n[4] other\n[5] exit");
+  if (y === "1") {
+  Games();
+  }
+  if (y === "2") {
+  GlobalHacks();
+  }
+  if (y === "3") {
+  WebChange();
+  }
+  if (y === "4") {
+  Other();
+  }
+  if (y === "5") {
+ 
+  }
+  else {
+  start2();
+  }
+  };
+var start = function() {
+  var x = prompt("Password:");
+  if (Encryption(x) === 890814323) {
+  alert("Started");
+  start2();
+  }
+  else if (x === "666") {
+    alert(":3");
+    start();
+  }
+  else {  
+  alert("Incorrect");
+  alert("If you have any problems please contact with hellom38 or dev.hellom38.hireable@gmail.com");    
+  start();
+  }
+  };
+var Encryption = function(string) {
+   var hash = 0;  
+  if (!string) return hash;
+                 
+   for (i = 0; i < string.length; i++) {
+      char = string.charCodeAt(i);
+    hash = ((hash << 5) - hash) + char;
+    hash = hash & hash;
+    }
+                 
+  return hash;
+};
+var x = n[2];
+if (n[2] === "Hellom38") {
+alert("Script executor by: " + x);
+  start();
+} else {
+
+  alert("Something went wrong");
+
+}

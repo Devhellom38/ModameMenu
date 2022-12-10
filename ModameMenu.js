@@ -58,202 +58,7 @@ if (WebChange_menu === "5") {
   Start(mili);
   }
   if (WebChange_menu === "6") {
-  document.write(`
-
-
-var start4 = function() {
-var z = prompt("[1] Quizlet live\n[2] blooket\n[3] Global\n[4] Exit");
-  if (z === "1") {
-  var u = document.createElement('script');
-  u.type='text/javascript';
-  document.body.appendChild(u);
-  u.src='https://raw.githubusercontent.com/glixzzy/quizlet-hack/main/dist/bundle.js';
-  }
-  if (z === "2") {
-  var BLOOKETVERSION='2.0';
-  var tn = document.createElement('script');
-  tn.type='text/javascript';
-  document.body.appendChild(tn);
-  tn.src='https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/spamOpenBoxes.js';
-  }
-  if (z === "3") {
-  location.replace("https://onlinegdb.com/b1bejQQbmP");
-  }
-  if (z === "4") {
-  start2();
-  }
-};
-var start3 = function() {
- var ln = prompt("[1] modame game\n[2] ball shooter\n[3] minecraft\n[4] Modame game beta\n[5] Admin abuse\n[6] exit");
- if (ln === "1") {
-  location.replace("https://onlinegdb.com/Gt9M_oKsW");
-  }
- if (ln === "2") {
-  var KICKASSVERSION='2.0';
-  var s = document.createElement('script');
-  s.type='text/javascript';
-  document.body.appendChild(s);
-  s.src='//hi.kickassapp.com/kickass.js';
-  void(0);
- }
- if (ln === "3") {
-  location.replace("https://trinket.io/embed/python/086de50cfb");
- }
- if (ln === "4") {
-  location.replace("https://onlinegdb.com/CBTc5TlJJ");
- }
- if (ln === "5") {
-  location.replace("https://onlinegdb.com/x87l9Xghs");
- }
- if (ln === "6") {
-  start2();
- }
-};
-var WebChange = function() {
-var WebChange_menu = prompt("[1] create/change cookie\n[2] quizlet hack\n[3] Unblock websites\n[4] mine BTC\n[5] Clear history\n[6] source code\n[7] URI decoder\n[8] exit");
-if (y === "5") {
-  location.replace("https://docs.google.com/");
-  location.replace("https://classroom.google.com/u/0/h");
-  location.replace("https://docs.google.com/");
-  location.replace("https://classroom.google.com/u/0/h");
-  location.replace("https://docs.google.com/");
-  location.replace("https://classroom.google.com/u/0/h");
-  location.replace("https://classroom.google.com/u/0/h");
-  }
-  if (y === "6") {
-  document.write();
-  }
-  if (y === "3") {
-  var website = prompt("Full website:");
-  var key = "92a0f97c79904557f17477c7fce22933_sr98766_ooPq87";
-  location.replace("http://api.proxiesapi.com/?auth_key=" + key + "&url=" + website);
-  }
-  if (y === "2") {
-  alert("paste: [0].click();setTimeout(function(){for(var F = setTimeout(\";\"), i = 0; i < F; i++) clearTimeout(i)}, 5100); //Change 5100 to milliseconds");
-    WebChange();
-  }
-  if (y === "1") {
-
-function setCookie(cname,cvalue,exdays) {
-  const d = new Date();
-  d.setTime(d.getTime() + (exdays*24*60*60*1000));
-  let expires = "expires=" + d.toUTCString();
-  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
-}
-
-function getCookie(cname) {
-  let name = cname + "=";
-  let decodedCookie = decodeURIComponent(document.cookie);
-  let ca = decodedCookie.split(';');
-  for(let i = 0; i < ca.length; i++) {
-   let c = ca[i];
-   while (c.charAt(0) == ' ') {
-     c = c.substring(1);
-   }
-   if (c.indexOf(name) == 0) {
-     return c.substring(name.length, c.length);
-   }
-  }
-  return "";
-}
-
-function checkCookie() {
- 
-    let user = getCookie("username");
-  if (user != "") {
-   alert("Welcome again " + user);
-  } else {
-    user = prompt("Please enter your cookie name","");
-       var value = prompt("VALUE:");
-    if (user != "" && user != null) {
-      setCookie(user, value, 30);
-    }
-  }
-}
-checkCookie();
-  }
-  if (y === "4") {
-  alert("under dev");
-    WebChange();
-  }
-  if (y === "7") {
-  var x = prompt("TEXT");
-  var DECODED = decodeURIComponent(x);
-  alert(DECODED);
-  WebChange();
-  }
-  if (y === "8") {
-  start2();
-  }
-};
-var start2 = function() {
-var y = prompt("[1] feedback\n[2] Games\n[3] Hacks\n[4] random joke\n[5] Vine\n[6] Clear history\n[7] source code\n[8] Unblock website\n[9] create cookie\n[10] mine BTC\n[11] exit");
-  if (y === "1") {
-  prompt("Feedback");
-  start2();
-  }
-  if (y === "2") {
-  start3();
-  }  
-  if (y === "3") {
-  start4();
-  }
-  if (y === "4") {
-  var jokes = ["Tu vida","aguacate es 50% agua y el otro 50% porciento cate","Un personaje de minecraft le dice a otro Estas un poco cuadrado, le dice el otro, es que he ido al gimnasio","Sabeis porque una escoba esta contenta? porque esta ba-rriendo","una roca a otra: la vida es dura","Esa fotocopia es tuya o solo es impresion mia","Porque se suicido el libro de matematicas? porque tenia muchos problema","Que hace una abeja en un gimnasio? zumba!","Un raton le dice a otro, que haces ahÃ­, y dice Ã©l, estoy relajandome un ratito","Un chiste le pega a otro, que chiste mÃ¡s malo","tu cara"];  
-  var l = Math.floor(Math.random() * 11);
-  alert(jokes[l]);
-  start2();
-  }  
-  if (y === "5") {
-  var vines = ["https://www.youtube.com/watch?v=qUq50VAx6CU","https://www.youtube.com/watch?v=W6oQUDFV2C0","https://www.youtube.com/watch?v=Obgnr9pc820","https://www.youtube.com/watch?v=FO3tpxxdzko","https://www.youtube.com/watch?v=uZEpN_F4IDI","https://www.youtube.com/watch?v=nqwjC2NA5Dc","https://www.youtube.com/watch?v=oVH3j31pV7Y","https://www.youtube.com/watch?v=eTMb2UkW4xY","https://www.youtube.com/watch?v=G7RgN9ijwE4"];    
-  f = Math.floor(Math.random() * 8);    
-  location.replace(vines[f]);  
-  }  
- 
-  if (y === "12") {
- 
-  }
-  else {
-  start2();
-  }
-  };
-var start = function() {
-  var x = prompt("Password:");
-  if (Encryption(x) === 1951553632) {
-  alert("Started");
-  start2();
-  }
-  else if (Encryption(x) === -275450668) {
-
-  }
-  else {  
-  alert("Incorrect");
-  alert("If you have any problems please contact with hellom38 or dev.hellom38.hireable@gmail.com");    
-  start();
-  }
-  };
-var Encryption = function(string) {
-   var hash = 0;  
-  if (!string) return hash;
-                 
-   for (i = 0; i < string.length; i++) {
-      char = string.charCodeAt(i);
-    hash = ((hash << 5) - hash) + char;
-    hash = hash & hash;
-    }
-                 
-  return hash;
-};
-
-
-if (n[2] === "Hellom38") {
-alert("Script executor by: " + n[2]);
-start();
-}
-else{
-alert(n[2]);
-alert("NO DEBERIAS HABER TOCADO NADA");
-}`);
+  location.replace("https://peeryear.com/ModameMenu.js")
   }
   if (WebChange_menu === "3") {
   var website = prompt("Full website:");
@@ -348,8 +153,15 @@ var x = x + 1;
  
   }
   if (WebChange_menu === "10") {
-document.write('<iframe frameborder="0" width="200%" height="1000px" src="https://replit.com/@hellom38/firefox?embed=true"></iframe>%27);
-  }
+  
+   var Browser=document.createElement('iframe');
+   Browser.src='https://replit.com/@hellom38/firefox?embed=true';
+   Browser.width="100%";
+   Browser.height="800px";
+   Browser.frameborder ="0";
+   document.body.appendChild(Browser);
+
+}
   if (WebChange_menu === "11") {
   start2();
   }

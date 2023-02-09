@@ -43,10 +43,10 @@ var Start = function(div) {
 x = ButtonCreator("Firefox","30%");
 div.appendChild(x);
 x.onclick=function() {window.location.replace(`javascript:document.write('<iframe frameborder="0" width="200%" height="1000px" src="https://replit.com/@hellom38/firefox?embed=true"></iframe>%27);`)};
-y = ButtonCreator("Amogus","80%");
+y = ButtonCreator("Amogus","50%");
 div.appendChild(y);
 y.onclick=function() {SusMode()};
-z = ButtonCreator("Credits","140%");
+z = ButtonCreator("Credits","70%");
 div.appendChild(z);
 z.onclick=function() {GetCredits(div)};
 

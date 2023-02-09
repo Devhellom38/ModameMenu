@@ -1,4 +1,4 @@
-var img,Credits,Btn,x,y,z,Div,Title,Code;
+var img,Credits,Btn,x,y,z,Div,Title,Code,CreditsN;
 var CreateElement = function(elem, left, top) {
   elem.style.position = "absolute";
   elem.style.left = left;
@@ -10,15 +10,19 @@ img = document.createElement(img);
   document.body.appendChild(img);
 };
 var GetCredits = function(dov) {
-  document.getElementById("").remove();
-  document.getElementById("").remove();
-  document.getElementById("").remove();
-  Credits = document.createElement("h1");
-  CreateElement(Credits, "150%", "1%");
-  Credits.style.zIndex = "505";
-  Credits.innerText = "Programmer: Carlos Lawrie";
-  Title.style.FontFamily = "Lucida Console";
-  Div.appendChild(Title);
+  document.getElementById("Amogus").remove();
+  document.getElementById("Firefox").remove();
+  document.getElementById("Credits").remove();
+  CreditsN = document.createElement("h1");
+    CreditsN.style.position = "absolute";
+  CreditsN.style.left = "25%";
+  CreditsN.style.top = "150%";
+  CreditsN.style.zIndex = "505";
+  CreditsN.style.fontSize="50px";
+  CreditsN.innerText = "Programmer: Carlos Lawrie";
+  CreditsN.style.FontFamily = "Lucida Console";
+  CreditsN.style.zIndex="505";
+  dov.appendChild(CreditsN);
 
 };
 var ButtonCreator = function(Text,top) {
@@ -29,6 +33,7 @@ Btn = document.createElement("button");
   Btn.style.zIndex = "505";
   Btn.style.fontSize = "60px";
   Btn.style.padding = "30px 100px";
+  Btn.id=Text;
 
   return Btn;
 
@@ -43,7 +48,7 @@ div.appendChild(y);
 y.onclick=function() {SusMode()};
 z = ButtonCreator("Credits","140%");
 div.appendChild(z);
-z.onclick=function() {GetCredits(dov)};
+z.onclick=function() {GetCredits(div)};
 
 
 

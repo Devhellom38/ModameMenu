@@ -5,7 +5,7 @@ var CreateElement = function(elem, left, top) {
   elem.style.top = top;
 };
 var SusMode = function() {
-img = document.createElement(img);
+img = document.createElement("img");
   img.src="https://i1.sndcdn.com/avatars-5YhOoeqkl8R1QTtE-VPEy0Q-t500x500.jpg";
   document.body.appendChild(img);
 };
